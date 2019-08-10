@@ -1,13 +1,16 @@
 {
 "companyName": "DefaultCompany",
-"productName": "frida's day",
-"dataUrl": "fridasDay.data.unityweb",
-"wasmCodeUrl": "fridasDay.wasm.code.unityweb",
-"wasmFrameworkUrl": "fridasDay.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"productName": "New Unity Project",
+"productVersion": "0.1",
+"dataUrl": "FridasDay.data.unityweb",
+"wasmCodeUrl": "FridasDay.wasm.code.unityweb",
+"wasmFrameworkUrl": "FridasDay.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
 }
