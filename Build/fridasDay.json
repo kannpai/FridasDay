@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "New Unity Project",
-"productVersion": "0.1",
+"companyName": "Pei",
+"productName": "FridasDay",
+"productVersion": "2.0",
 "dataUrl": "FridasDay.data.unityweb",
 "wasmCodeUrl": "FridasDay.wasm.code.unityweb",
 "wasmFrameworkUrl": "FridasDay.wasm.framework.unityweb",
